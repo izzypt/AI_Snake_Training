@@ -1,2 +1,6 @@
 # AI_Snake_Training
-Teach an AI to play Snake!  Building everything from scratch using Pygame and PyTorch.
+
+- Part 1 - Theory on Reinforcement learning
+- Part 2 - Implement the game
+- Part 3 - Implement the Agent
+- Part 4 - Implement the model
